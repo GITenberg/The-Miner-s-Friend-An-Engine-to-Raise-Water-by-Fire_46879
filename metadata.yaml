@@ -1,10 +1,16 @@
 _repo: The-Miner-s-Friend-An-Engine-to-Raise-Water-by-Fire_46879
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Savery, Thomas
     gutenberg_agent_id: '44009'
     url: http://www.gutenberg.org/2009/agents/44009
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46879#The-Miner-s-Friend-An-Engine-to-Raise-Water-by-Fire
 gutenberg_issued: '2014-09-17'
 gutenberg_type: Text
 identifiers:
